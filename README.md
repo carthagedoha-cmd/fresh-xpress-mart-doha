@@ -13,3 +13,6 @@ All photography/video are illustrative Pexels media; verify/replace with store-a
 
 ## Handover
 This repository is isolated from other client websites. Buyer-only content administration is NOT active at preview stage. If accepted, transfer the repository and agreed commercial hosting to the buyer's account, configure a secure editor for the approved content, test editing/publishing, and revoke seller access after handover. No public login, backend, checkout or payments are configured. GitHub Pages is for demonstration only.
+
+## 26 November 2026 redesign
+Signage-inspired palette: yellow #F4C344, green #087841, red #DB3E36. Approximate values, not official brand codes. Retail navigation, promotion-style hero, categories and store information are inspired by https://www.monoprix.qa/ without using its branding/assets/code. User-selected /Google Drive/Google Earth returned no files. Store photo links lead to the actual branch's Google Maps listing; no contributor or Street View image is republished. Generic product images remain explicitly illustrative and should be replaced with owner-supplied photography. Generic supermarket stock video removed because it did not depict the actual branch.
